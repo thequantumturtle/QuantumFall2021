@@ -1,6 +1,6 @@
 ---
 week: 11
-day : December 02
+day : November 22
 title: Quantum Search
 ---
 

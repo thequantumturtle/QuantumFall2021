@@ -1,6 +1,6 @@
 ---
 week: 1
-day: October 26 
+day: October 18 
 title: Introduction
 # tags: [hello]
 ---

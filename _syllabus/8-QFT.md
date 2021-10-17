@@ -1,6 +1,6 @@
 ---
 week: 8
-day: November 18
+day: November 10
 title: QFT
 ---
 

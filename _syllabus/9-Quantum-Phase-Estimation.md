@@ -1,6 +1,6 @@
 ---
 week: 9
-day : November 23
+day : November 15
 title: Quantum Phase Estimation
 ---
 

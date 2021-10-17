@@ -1,6 +1,6 @@
 ---
 week: 12
-day : December 07
+day : December 01
 title: Shor's Algorithm
 ---
 

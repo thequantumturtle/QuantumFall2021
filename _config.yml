@@ -4,10 +4,10 @@
 courseName: "Programming Universal Gate Quantum Computers"
 
 # small title that is at the top of every page
-subtitle: "17-617 — Programming Quantum Computers — Fall Semester 2020"
+subtitle: "17-617 — Programming Quantum Computers — Fall Semester 2021"
 
 # baseurl is the same as the name of the repository
-baseurl: /QuantumFall2020
+baseurl: /QuantumFall2021
 
 # url where the required reading is available to download
 docsUrl: "https://www.amazon.com/_/dp/1492039683?tag=oreilly20-20" 
