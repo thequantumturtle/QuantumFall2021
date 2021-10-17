@@ -1,0 +1,28 @@
+# configuration
+# fill in the course details
+ 
+courseName: "Programming Universal Gate Quantum Computers"
+
+# small title that is at the top of every page
+subtitle: "17-617 — Programming Quantum Computers — Fall Semester 2020"
+
+# baseurl is the same as the name of the repository
+baseurl: /QuantumFall2020
+
+# url where the required reading is available to download
+docsUrl: "https://www.amazon.com/_/dp/1492039683?tag=oreilly20-20" 
+
+# url where the student's grading info is kept
+gradingUrl: "" 
+
+
+# change only if you know what you are doing
+collections:
+  syllabus:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: syllabus
+    values:
+      layout: unit
