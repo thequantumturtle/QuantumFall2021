@@ -19,7 +19,7 @@ We currently have a room at 3SC 265. I will be going in person as well as stream
 Students will gain familiarity with current universal gate quantum computing tools and technology. Students will also become comfortable with several QC algorithms and their implementation on state of the art quantum computer simulators and hardware. 
 
 ## Grading
-60% Homeworks, 10% Participation, 30% weekly quizzes.
+90% Homeworks/Quizzes, 10% Participation.
 
 ## Quizzes
 Each week a quiz will be given. The worst one will not be counted.
